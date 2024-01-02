@@ -1,0 +1,26 @@
+vx = 196 ou - 196
+
+vy = 109 ou -109
+
+vz = 182 ou -182
+
+
+
+x - k * vxr = x2 - k * vx
+
+t = (x - x2) / (vx - vxr)
+ou t = (x - x2) / (vxr - vx)
+
+z1 + t * vz1 + h * vzr = z2 + (t + h) * vz2
+
+
+t(vz1 - vz2) = z2 + h * vz2 - z1 - h vzr
+
+
+
+x1 + h * vxr = x2 + h * vx
+
+h * (vxr - vx) = x2 - x1
+h
+
+x1 + t * vx1 - t * vxr
